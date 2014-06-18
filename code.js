@@ -1,4 +1,4 @@
-(function(){
+；(function(){
 
 if(!document.body.addEventListener) {
 	return;
